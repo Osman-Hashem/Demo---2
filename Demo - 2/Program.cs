@@ -405,15 +405,15 @@ namespace Demo_2
             // Console.WriteLine(S01.GetHashCode());
 
 
-            // string Message = "Hello ";
-            // 
-            // Console.WriteLine("Message : " + Message);
-            // Console.WriteLine("HashCode : " + Message.GetHashCode());
-            // Console.WriteLine();
-            // 
-            // Message += "Ahmed";
-            // Console.WriteLine("Message : " + Message);
-            // Console.WriteLine("HashCode : " + Message.GetHashCode()); 
+             // string Message = "Hello ";
+             // 
+             // Console.WriteLine("Message : " + Message);
+             // Console.WriteLine("HashCode : " + Message.GetHashCode());
+             // Console.WriteLine();
+             // 
+             // Message += "Ahmed";
+             // Console.WriteLine("Message : " + Message);
+             // Console.WriteLine("HashCode : " + Message.GetHashCode()); 
             #endregion
 
             #region StringBuillder
